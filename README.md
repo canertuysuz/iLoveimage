@@ -30,4 +30,4 @@ main.py [-h] [-p PATH] <url>
 
 You can contact me on [my website](https://canertuysuz.com)
 
-![alt text](https://ibb.co/4SpmvN2)
+https://ibb.co/4SpmvN2
