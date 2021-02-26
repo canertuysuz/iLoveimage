@@ -30,4 +30,4 @@ main.py [-h] [-p PATH] <url>
 
 You can contact me on [my website](https://canertuysuz.com)
 
-[Test Image 1](creator.png)
+![creator](https://user-images.githubusercontent.com/64376593/109332331-ff4e7680-786e-11eb-84ab-86cbf2ee0fbb.PNG)
