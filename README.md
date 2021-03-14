@@ -2,6 +2,8 @@
 
 iloveimage is a tool to download photos from web pages in bulk
 
+![Ekran Alıntısı](https://user-images.githubusercontent.com/64376593/111062644-32be1180-84bb-11eb-9880-ac76759d25be.PNG)
+
 ## Installation
 
 After downloading git clone or zip, download requirements
